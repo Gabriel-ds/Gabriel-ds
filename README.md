@@ -5,8 +5,7 @@
 - 🌱 Currently Learning REACT JS.
 -->
 ### 🛠 Tech Stack 
-
-- 💻   Javascript 
-- 🌐   HTML | CSS | Bootstrap | Node.js | ReactJS
+  
+- 🌐   HTML | CSS | Javascript | Node.js | ReactJS
 - 🛢   MySQL | MongoDB
 - 🔧  Git 
