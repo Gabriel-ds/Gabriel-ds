@@ -6,7 +6,7 @@
 -->
 ### 🛠 Tech Stack 
   
-- 🌐   HTML | CSS | Javascript | Node.js | ReactJS
+- 🌐   HTML | CSS | Javascript | Node.js | ReactJS | PHP 8
 - 🛢   MySQL | MongoDB
 - 🔧  Git 
 
