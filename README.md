@@ -2,7 +2,7 @@
 
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 Studying Systems Analysis and Development in Taubaté, Brazil
-- 🌱 Currently Learning REACT JS.
+- 🌱 Currently Learning REACT and Node JS.
 -->
 ### 🛠 Tech Stack 
   
