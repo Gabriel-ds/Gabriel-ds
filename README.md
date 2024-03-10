@@ -1,13 +1,22 @@
-### Hey, I'm Gabriel! 👋
+### Hey there, I'm Gabriel! 👋
 
-- 🤔 Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 Studying Systems Analysis and Development in Taubaté, Brazil
--->
-### 🛠 Tech Stack 
-  
-- 🌐   Javascript | TypeScript | ReactJS | NodeJS 
-- 🛢   MySQL
-- 🔧  Git 
+I'm a software developer with a passion for exploring new technologies and crafting innovative solutions. Currently, I'm pursuing my journey in the realm of software engineering, aiming to contribute meaningful projects and quick hacks to the world.
+
+### 🎓 Education
+
+- Bachelor's degree in Systems Analysis and Development from UNINOVE.
+- Currently pursuing a Postgraduate degree in Software Engineering from PUC - Minas.
+
+### 🛠 Tech Stack
+
+Here's a glimpse of the technologies I work with:
+
+- 💻 JavaScript | TypeScript | ReactJS | Next.js
+- 🚀 Node.js | Golang
+- 🗄 MySQL
+- 🔧 Git
+
+Feel free to connect and explore more about my projects and interests!
 
 ### Contact
 
